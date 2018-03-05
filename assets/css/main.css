@@ -1305,7 +1305,7 @@
 		background-color: #183026;
 		background-image: url("images/overlay.gif"), url("../../images/bg.jpg");
 		background-repeat: repeat, no-repeat;
-		background-size:10%;
+		background-size:100% 50%;
 		background-position: top left, center 0;
 		background-attachment: fixed, fixed;
 		font-family: 'Source Sans Pro', sans-serif;
